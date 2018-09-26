@@ -1,0 +1,13 @@
+Hourly Weather Observation Data collected from http://www.imd.gov.in/section/nhac/aws/aws.htm.
+
+Abbreviations Used :
+MSLP  : Mean Sea Level Pressure in hPa
+Ptend : Pressure tendency in last 24 hours in hPa
+TMax  : Maximum Temperature in 0C (reported in 12 UTC only)
+TMin  : Minimum Temperature in 0C (reported in 03 UTC only)
+DBT   : Dry bulb Temperature in 0C
+DPT   : Dew point Temperature in 0C
+RRR   : Total rainfall in mm since 03 UTC
+SSHM  : Bright hours of Sunshine in hours and minutes
+DDD   : Direction in 36 points compass
+FF    : Speed in knots measured through anemometer
